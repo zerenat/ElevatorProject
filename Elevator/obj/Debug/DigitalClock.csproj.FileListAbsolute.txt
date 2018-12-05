@@ -1,0 +1,9 @@
+C:\Users\Sleig\Documents\Visual Studio 2015\Projects\DigitalClock\DigitalClock\bin\Debug\DigitalClock.exe.config
+C:\Users\Sleig\Documents\Visual Studio 2015\Projects\DigitalClock\DigitalClock\bin\Debug\DigitalClock.exe
+C:\Users\Sleig\Documents\Visual Studio 2015\Projects\DigitalClock\DigitalClock\bin\Debug\DigitalClock.pdb
+C:\Users\Sleig\Documents\Visual Studio 2015\Projects\DigitalClock\DigitalClock\obj\Debug\DigitalClock.csprojResolveAssemblyReference.cache
+C:\Users\Sleig\Documents\Visual Studio 2015\Projects\DigitalClock\DigitalClock\obj\Debug\DigitalClock.Properties.Resources.resources
+C:\Users\Sleig\Documents\Visual Studio 2015\Projects\DigitalClock\DigitalClock\obj\Debug\DigitalClock.csproj.GenerateResource.Cache
+C:\Users\Sleig\Documents\Visual Studio 2015\Projects\DigitalClock\DigitalClock\obj\Debug\DigitalClock.exe
+C:\Users\Sleig\Documents\Visual Studio 2015\Projects\DigitalClock\DigitalClock\obj\Debug\DigitalClock.pdb
+C:\Users\Sleig\Documents\Visual Studio 2015\Projects\DigitalClock\DigitalClock\obj\Debug\DigitalClock.Elevator.resources

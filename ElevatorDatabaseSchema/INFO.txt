@@ -1,0 +1,3 @@
+*Elevator project uses MySQL server to store data
+*The schema file is for database configuration created
+*by exporting schema from MySQL server workbench
